@@ -48,3 +48,9 @@ MANIFEST
 
 # Per-project virtualenvs
 .venv*/
+
+# qGis files
+*.qgis
+
+# all data files?
+data/*
