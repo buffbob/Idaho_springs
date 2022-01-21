@@ -1,4 +1,3 @@
-======
 idaho1
 ======
 From publicly available lidar, I created dem's and overlaid them on a map of areas around Idaho Springs to see if it will show
