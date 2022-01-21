@@ -9,7 +9,7 @@ old mine 'holes'.
 <hr>
 
 <h2>Other</h2>
-<img src="notebooks/IdahoSpringsBikeTrail.png">
+<img src="notebooks/Tunnel_site_dem_hss.png">
 
 
      
