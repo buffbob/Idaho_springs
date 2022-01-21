@@ -8,7 +8,7 @@ old mine 'holes'.
 
 <hr>
 
-<h2>Other</h2>
+<h3>Comparing azimuths of one of the sites</h3>
 <img src="notebooks/Tunnel_site_dem_hss.png">
 
 
