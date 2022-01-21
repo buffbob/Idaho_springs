@@ -1,17 +1,10 @@
 ======
 idaho1
 ======
+From publicly available lidar, I created dem's and overlaid them on a map of areas around Idaho Springs to see if it will show
+old mine 'holes'.
 
-
-Add a short description here!
-
-
-Description
-===========
-
-A longer description of your project goes here...
-
-
+<img src="notebooks/IdahoSpringsBikeTrail.png"
 Note
 ====
 
